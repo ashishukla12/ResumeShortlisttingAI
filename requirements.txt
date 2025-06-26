@@ -1,0 +1,6 @@
+gradio
+pymupdf
+scikit-learn
+pandas
+nltk
+numpy
